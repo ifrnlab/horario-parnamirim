@@ -1,0 +1,12 @@
+# Doc. gerada pelo sphinx
+_build/*
+
+# Arquivos de cache do Python
+__pycache__/*
+
+# Ambiente virtual
+.venv/*
+venv/*
+.env/*
+env/*
+
